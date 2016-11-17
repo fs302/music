@@ -9,7 +9,7 @@ music acquisition and data analysis, especially music recommendation.
 1. [11/13]爬取框架建立，先遍历歌手（筛选华人歌手），再根据歌手热门TOP200爬取歌曲信息。
 2. [11/14]遭遇防爬，把间隔调整到1s以上能解决，但是速度太慢了。
 3. [11/15]UA随机化/连接到数据库/增强异常处理机制(自动跳过重爬)
-4. 多线程/IP代理
+4. 多线程/IP代理/log文件流
 5. 数据清洗/分析/挖掘
 
 ## Reading
